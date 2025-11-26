@@ -66,6 +66,9 @@ http://localhost:3000
 
 ### 🔍 AQI Result
 <img src="assets/screenshots/home2.png" width="700"/>
+<img width="1500" height="958" alt="Screenshot 2025-11-26 121348" src="https://github.com/user-attachments/assets/c70295f3-cc82-436e-9af7-bfd056b5e2e3" />
+![image](https://github.com/user-attachments/assets/c70295f3-cc82-436e-9af7-bfd056b5e2e3)
+
 
 
 
