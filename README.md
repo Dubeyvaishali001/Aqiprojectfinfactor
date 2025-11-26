@@ -59,11 +59,14 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🏠 Homepage
-![Homepage](assets/screenshots/home.png)
+<img src="assets/screenshots/home.png" width="700"/>
 
 ### 🔍 AQI Result
-![Result](assets/screenshots/home2.png)
+<img src="assets/screenshots/home2.png" width="700"/>
+
 
 
 
