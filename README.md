@@ -56,3 +56,33 @@ Frontend runs at:
 
 http://localhost:3000
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+📜 License
+
+This project is licensed under the MIT License.
+
+👤 Author
+Vaishali Dubey
+
+💼 MCA Student | Developer
+
+🌐 https://dubeyvaishali001.github.io/dubey-portfolio/
+
+✉️ Contact: vaishalidubeyofficial@gmail.com
+
