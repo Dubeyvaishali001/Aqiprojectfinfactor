@@ -57,14 +57,13 @@ Frontend runs at:
 http://localhost:3000
 
 
-
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](assets/screenshots/Screenshot 2025-11-26 121348.png)
+![Homepage](assets/screenshots/home.png)
 
-### 🔍 AQI Search Result
-![AQI Result](assets/screenshots/Screenshot 2025-11-26 121512.png)
+### 🔍 AQI Result
+![Result](assets/screenshots/home2.png)
 
 
 
