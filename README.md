@@ -59,6 +59,8 @@ http://localhost:3000
 
 
 <img width="1500" height="958" alt="image" src="https://github.com/Dubeyvaishali001/Aqiprojectfinfactor/blob/main/assets/screenshots/Screenshot%202025-11-26%20121348.png" />
+### 🌤️ Homepage
+![Homepage](assets/screenshots/Screenshot%202025-11-26%20121348.png)
 
 <img width="765" height="843" alt="image" src="https://github.com/user-attachments/assets/835da419-0a86-4a75-a90e-75984c359543" />
 <img width="665" height="905" alt="image" src="https://github.com/user-attachments/assets/37acc3bf-c641-4499-9dff-b148638c666a" />
